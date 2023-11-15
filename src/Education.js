@@ -1,7 +1,7 @@
 function Education(props){
     return (
         <div>
-        {props.second}
+        <h1>{props.second}</h1>
         </div>
 
 

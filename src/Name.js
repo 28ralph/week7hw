@@ -4,7 +4,7 @@ function Name(props){
   return (
     <div>
         
-        {props.first}
+        <h1>{props.first}</h1>
         </div>
   )
 }

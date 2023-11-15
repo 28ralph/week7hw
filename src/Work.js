@@ -4,7 +4,7 @@ function Work(props){
   return (
     <div>
         
-        {props.third}
+        <h1>{props.third}</h1>
         </div>
   )
 }

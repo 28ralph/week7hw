@@ -4,7 +4,7 @@ function Skills(props){
   return (
     <div>
         
-        {props.fourth}
+        <h1>{props.fourth}</h1>
         </div>
   )
 }

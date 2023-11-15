@@ -4,7 +4,7 @@ function Contact(props){
   return (
     <div>
         
-        {props.fifth}
+       <h1> {props.fifth}</h1>
         </div>
   )
 }
